@@ -1,0 +1,23 @@
+*, .container, .col-12{
+    background-color: #2d2d2d !important;
+}
+h1,h2,h3,h4,h5,h6,p,a,span{
+  color: #fff !important;
+  font-family: 'Montserrat', sans-serif,
+}
+.form-control{
+  background-color: #fff !important;
+}
+.btn-success{
+  background-color: #157347 !important; 
+}
+.btn-trash{
+    color: rgb(201, 16, 16) !important;
+    background: transparent !important;
+    border: none !important;
+}
+.btn-edit{
+  color: #1B98E0 !important;
+  background: transparent !important;
+  border: none !important;
+}
