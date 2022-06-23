@@ -2,7 +2,7 @@
 class DB{
     
     public function getConnection(){
-        return $conn = new PDO('mysql:host=localhost;dbname=curso_pdo', 'root', 'Marco-1022');
+        return $conn = new PDO('mysql:host=localhost;dbname=curso_pdo', 'root', '');
     }
     
     public function closeConnection(){
